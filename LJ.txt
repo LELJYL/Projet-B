@@ -1,0 +1,5 @@
+hi 
+je suis la 
+ls
+git status
+git clone
